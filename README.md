@@ -1,0 +1,2 @@
+# Stock_Price_Forecasting_BIST30_NASDAQ30
+Stock_Price_Forecasting_BIST30_NASDAQ30
